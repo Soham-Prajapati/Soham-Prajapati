@@ -65,12 +65,14 @@ Currently **Deputy Tech Head @ IEEE SPIT** and always shipping something.
 
 ## 🚀 Featured Projects
 
-| Project | What it is | Link |
-|---|---|---|
-| **🗺️ TrailSync** | Real-time WebGL route playback engine — frame-accurate motion at 60fps (walk / train / cab modes) | [Live](https://trail-sync-nine.vercel.app/) |
-| **🤖 IntelliView** | Multi-agent AI interview engine that evaluates candidates live & writes recruiter reports (18h hackathon build) | [Code](https://github.com/Soham-Prajapati/intelliview) |
-| **🌌 HackFusion** | Immersive 3D fest landing page — scroll-driven GSAP lighting & camera | [Live](https://hackfusion-2026.vercel.app/) |
-| **🎧 Spotify Reimagined** | Mobile UX case study — navigation discoverability & friction reduction | [Behance](https://www.behance.net/gallery/226110415/Spotify-Reimagined) |
+| Project | What it is | My role | Link |
+|---|---|---|---|
+| **🍜 Soupz** | npm-published CLI + browser IDE that bridges AI coding agents (Claude Code, Gemini CLI, Copilot CLI, Ollama) to any device — pair by QR and drive your agents from your phone | Solo | [Live](https://soupz.vercel.app) · [Code](https://github.com/Soham-Prajapati/soupz-stall) |
+| **🏟️ PitchOps** | GenAI stadium-ops copilot for FIFA WC 2026 — crowd-density forecasting, Dijkstra accessible wayfinding, Gemini ops advisor + multilingual fan assistant | Solo | [Live](https://prompt-wars-4-by-soup.vercel.app) · [Code](https://github.com/Soham-Prajapati/prompt-wars-4-by-soup) |
+| **🗺️ TrailSync** | 3D trip-route visualizer on Mapbox terrain — synced timeline playback on a custom rAF loop kept outside React's render cycle | Team of 3 · top contributor | [Live](https://trail-sync-nine.vercel.app/) |
+| **🌌 HackFusion** | The real event site for our tech fest — a voxel village in React Three Fiber with a scroll-driven day/night cycle | Built for IEEE SPIT | [Live](https://hackfusion-2026.vercel.app/) · [Code](https://github.com/Soham-Prajapati/hackfusion_2026) |
+| **🕵️ Blackout** | Detective RPG where the player's mind *is* a live Cognee knowledge graph — forget a clue and you actually lose it | Solo | *private* |
+| **🎧 Spotify Reimagined** | Mobile UX case study — navigation discoverability & friction reduction | Solo | [Behance](https://www.behance.net/gallery/226110415/Spotify-Reimagined) |
 
 ## 🏆 Trophy Shelf
 
