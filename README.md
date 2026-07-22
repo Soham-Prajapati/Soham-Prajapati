@@ -115,25 +115,21 @@ Currently **Deputy Tech Head at IEEE SPIT**, and always shipping something.
   The trophy badge that used to sit here ran on a public Vercel instance
   that is now permanently disabled — it answered every request with
   "Payment required / DEPLOYMENT_DISABLED", so it rendered as a broken
-  image. Replaced with the Soupz mark drawn in ASCII: no third-party
-  service, no rate limit, nothing left to go down.
+  image.
+
+  Replaced with the Soupz mark, animated: the real logo geometry with the
+  three steam wisps rising and fading on a stagger, the same motion the
+  bowl uses in Soup OS. It lives in this repo, so there is no third-party
+  service left to go down. The SVG carries its own prefers-reduced-motion
+  rule, which the browser honours even though this is an <img>.
 -->
 
-```
-               )    )    )
-              (    (    (                   o
-               )    )    )                 //
-              (    (    (                 //
-                                         //
-        _.--------------------------.   //
-      .'                             './/
-     (::::::::::::::::::::::::::::::::)/
-      '.                             .'
-        '.                         .'
-          '._                   _.'
-             '--._         _.--'
-                  '-------'
-```
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/soupz-steam-dark.svg" />
+    <img src="./assets/soupz-steam-light.svg" width="220" alt="a steaming bowl of soup" />
+  </picture>
+</p>
 
 ## Connect
 
