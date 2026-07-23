@@ -109,7 +109,7 @@ Currently **Deputy Tech Head at IEEE SPIT**, and always shipping something.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Soham-Prajapati&hide_border=true&background=00000000&ring=E2963C&fire=F7CE8A&currStreakLabel=E2963C" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=Soham-Prajapati&hide_border=true&background=00000000&stroke=E2963C&ring=E2963C&fire=F7CE8A&currStreakNum=E2963C&currStreakLabel=E2963C&sideNums=E2963C&sideLabels=B96C16&dates=B96C16" alt="streak" />
 </p>
 
 <!--
