@@ -33,26 +33,25 @@
 ---
 
 <!--
-  ASCII bowl. Kept as a fenced code block rather than <pre> inside <p>:
-  a paragraph cannot legally contain a block element, so GitHub's sanitiser
-  mangles the whitespace and the art collapses.
+  The Soupz mark, animated: the real logo geometry with its three steam
+  wisps rising and fading on a stagger — the same motion the bowl uses in
+  Soup OS. Two variants behind a <picture> so it reads on both GitHub
+  themes. Self-hosted in assets/, so there is no service that can take it
+  down, and the SVG carries its own prefers-reduced-motion rule.
 
   When you have a 2-4s kickflip clip on a plain background, turn it into a
-  looping ASCII gif, drop it at assets/kickflip.gif and swap this block for:
+  looping ASCII gif, drop it at assets/kickflip.gif and add it below this:
      <p align="center"><img src="./assets/kickflip.gif" width="380" alt="kickflip" /></p>
 -->
 
-```
-              )   (   )
-             (   ) (   )
-              )  (   )
-        ______________________
-        \                    /
-         \    S  O  U  P    /
-          \________________/
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/soupz-steam-dark.svg" />
+    <img src="./assets/soupz-steam-light.svg" width="230" alt="a steaming bowl of soup" />
+  </picture>
+</p>
 
-           now serving: code
-```
+<p align="center"><sub><i>now serving: code</i></sub></p>
 
 ## whoami
 
@@ -112,24 +111,12 @@ Currently **Deputy Tech Head at IEEE SPIT**, and always shipping something.
 </p>
 
 <!--
-  The trophy badge that used to sit here ran on a public Vercel instance
-  that is now permanently disabled — it answered every request with
-  "Payment required / DEPLOYMENT_DISABLED", so it rendered as a broken
-  image.
-
-  Replaced with the Soupz mark, animated: the real logo geometry with the
-  three steam wisps rising and fading on a stagger, the same motion the
-  bowl uses in Soup OS. It lives in this repo, so there is no third-party
-  service left to go down. The SVG carries its own prefers-reduced-motion
-  rule, which the browser honours even though this is an <img>.
+  A github-profile-trophy badge used to sit here. Its public instance is
+  permanently disabled — every request answers "Payment required /
+  DEPLOYMENT_DISABLED" — so it rendered as a broken image and was removed.
+  The Soupz mark that briefly replaced it now opens the page instead, where
+  it does more work.
 -->
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/soupz-steam-dark.svg" />
-    <img src="./assets/soupz-steam-light.svg" width="220" alt="a steaming bowl of soup" />
-  </picture>
-</p>
 
 ## Connect
 
