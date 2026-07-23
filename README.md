@@ -19,9 +19,11 @@
 </p>
 
 <!-- ░░░ TYPING TAGLINE ░░░ -->
+<!-- Fraunces, matching the display face used across the portfolio and the
+     campaign. This was the last thing still asking for the pre-Soupz font. -->
 <p align="center">
   <a href="https://github.com/Soham-Prajapati">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2600&pause=800&color=E2963C&center=true&vCenter=true&width=560&lines=Full-stack+dev+%2B+UI%2FUX+designer;Student+%40+SPIT+Mumbai+%C2%B7+Pearl+Academy;Deputy+Tech+Head+%40+IEEE+SPIT;I+build+immersive+web%2C+mobile+%26+AI;...and+yes%2C+my+sister+named+me+Soup+%F0%9F%8D%9C" alt="typing tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=600&size=22&duration=2600&pause=800&color=E2963C&center=true&vCenter=true&width=560&lines=Full-stack+dev+%2B+UI%2FUX+designer;Student+%40+SPIT+Mumbai+%C2%B7+Pearl+Academy;Deputy+Tech+Head+%40+IEEE+SPIT;I+build+immersive+web%2C+mobile+%26+AI;...and+yes%2C+my+sister+named+me+Soup+%F0%9F%8D%9C" alt="typing tagline" />
   </a>
 </p>
 
