@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="150" viewBox="0 0 440 150" role="img" aria-label="Soupz: drive 5 coding agents from your phone local-first · on npm &amp; Homebrew">
+<style>.sf{font-family:Georgia,'Times New Roman',serif}.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.c{animation:in .45s ease-out 0.00s both}@keyframes in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+.go{animation:nudge 2.4s ease-in-out infinite}@keyframes nudge{50%{transform:translateX(4px)}}
+@media (prefers-reduced-motion:reduce){.c,.go{animation:none}}</style>
+<g class="c"><rect x="2" y="2" width="436" height="146" rx="14" fill="#FBF1E1" stroke="#E6C48E" stroke-width="1.5"/>
+<text x="24" y="44" class="sf" font-size="22" font-weight="700" fill="#2A2018">Soupz</text>
+<text x="24" y="66" class="sf" font-size="13" font-style="italic" fill="#C8741F">house special</text>
+<text x="24" y="98" class="sf" font-size="14" font-style="italic" fill="#7A6652">drive 5 coding agents from your phone</text>
+<text x="24" y="120" class="sf" font-size="14" font-style="italic" fill="#7A6652">local-first · on npm &amp; Homebrew</text>
+<g class="go"><text x="414" y="44" class="m" font-size="13" fill="#C8741F" text-anchor="end">open →</text></g></g>
+</svg>
