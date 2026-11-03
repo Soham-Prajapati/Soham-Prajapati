@@ -23,7 +23,7 @@ I study **Computer Engineering at SPIT Mumbai** with a **UI/UX minor at Pearl Ac
 <p align="center"><img src="./assets/menu-title.svg" width="100%" alt="Menu: tap a dish to open it" /></p>
 <p align="center">
   <a href="https://soupz.vercel.app"><img src="./assets/dish-soupz.svg" width="49%" alt="Soupz: drive 5 coding agents from your phone" /></a>
-  <a href="https://soham-prajapati.vercel.app"><img src="./assets/dish-mcp.svg" width="49%" alt="MCP at Engaze: 220+ of 411 tools, each permission-checked" /></a>
+  <img src="./assets/dish-mcp.svg" width="49%" alt="MCP at Engaze (under NDA): 220+ of 411 tools, each permission-checked" />
   <a href="https://tripwise.prerakgada.in"><img src="./assets/dish-tripwise.svg" width="49%" alt="TripWise: agents negotiate a group's budgets into one trip" /></a>
   <a href="https://hackfusion-2026.vercel.app"><img src="./assets/dish-hackfusion.svg" width="49%" alt="HackFusion 2026: a voxel village in React Three Fiber, 3,000+ registrations" /></a>
   <a href="https://prompt-wars-4-by-soup.vercel.app"><img src="./assets/dish-pitchops.svg" width="49%" alt="PitchOps: GenAI stadium-ops copilot for FIFA WC 2026" /></a>
