@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="440" height="430" viewBox="0 0 440 430" role="img" aria-label="Receipt of hackathon results: Best UI/UX SPIT Hackathon 800+ teams; 2nd Spectrum AI/ML; 3rd Pixel Perfect; Top 10 GDG Cloud Mumbai Agentic AI; Top 7 CODEHUNT; selected builder Claude Impact Lab Mumbai">
 <style>
-  .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:13px;fill:#2A2018}
-  .mute{fill:#7A6652}.b{font-weight:700}
+  .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:13px;fill:#26201C}
+  .mute{fill:#6E625B}.b{font-weight:700}
   .r{animation:print 2.2s steps(22) both}
   @keyframes print{from{clip-path:inset(0 0 100% 0)}to{clip-path:inset(0 0 0 0)}}
   @media (prefers-reduced-motion:reduce){.r{animation:none}}
 </style>
 <g class="r">
-<path d="M20 10 H420 V400 l-10 12 -10 -12 -10 12 -10 -12 -10 12 -10 -12 -10 12 -10 -12 -10 12 -10 -12 -10 12 -10 -12 -10 12 -10 -12 -10 12 -10 -12 -10 12 -10 -12 -10 12 -10 -12 -10 12 -10 -12 -10 12 -10 -12 -10 12 -10 -12 -10 12 -10 -12 -10 12 -10 -12 -10 12 -10 -12 -10 12 -10 -12 -10 12 -10 -12 -10 12 -10 -12 -10 12 -10 -12 Z" fill="#FBF1E1"/>
+<path d="M20 10 H420 V400 l-10 12 -10 -12 -10 12 -10 -12 -10 12 -10 -12 -10 12 -10 -12 -10 12 -10 -12 -10 12 -10 -12 -10 12 -10 -12 -10 12 -10 -12 -10 12 -10 -12 -10 12 -10 -12 -10 12 -10 -12 -10 12 -10 -12 -10 12 -10 -12 -10 12 -10 -12 -10 12 -10 -12 -10 12 -10 -12 -10 12 -10 -12 -10 12 -10 -12 -10 12 -10 -12 -10 12 -10 -12 Z" fill="#F8EBE1"/>
 <g class="m" xml:space="preserve">
 <text x="220" y="44" text-anchor="middle" class="b" font-size="15">SOUP KITCHEN · MUMBAI</text>
 <text x="220" y="64" text-anchor="middle" class="mute">order #2026 · table: hackathons</text>

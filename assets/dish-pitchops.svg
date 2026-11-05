@@ -3,10 +3,10 @@
 .c{animation:in .45s ease-out 0.48s both}@keyframes in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
 .go{animation:nudge 2.4s ease-in-out infinite}@keyframes nudge{50%{transform:translateX(4px)}}
 @media (prefers-reduced-motion:reduce){.c,.go{animation:none}}</style>
-<g class="c"><rect x="2" y="2" width="436" height="146" rx="14" fill="#FBF1E1" stroke="#E6C48E" stroke-width="1.5"/>
-<text x="24" y="44" class="sf" font-size="22" font-weight="700" fill="#2A2018">PitchOps</text>
-<text x="24" y="66" class="sf" font-size="13" font-style="italic" fill="#C8741F">stadium special</text>
-<text x="24" y="98" class="sf" font-size="14" font-style="italic" fill="#7A6652">GenAI ops copilot for FIFA WC 2026</text>
-<text x="24" y="120" class="sf" font-size="14" font-style="italic" fill="#7A6652">crowd forecasts · accessible wayfinding</text>
-<g class="go"><text x="414" y="44" class="m" font-size="13" fill="#C8741F" text-anchor="end">open →</text></g></g>
+<g class="c"><rect x="2" y="2" width="436" height="146" rx="14" fill="#F8EBE1" stroke="#EBCDB9" stroke-width="1.5"/>
+<text x="24" y="44" class="sf" font-size="22" font-weight="700" fill="#26201C">PitchOps</text>
+<text x="24" y="66" class="sf" font-size="13" font-style="italic" fill="#D04A31">stadium special</text>
+<text x="24" y="98" class="sf" font-size="14" font-style="italic" fill="#6E625B">GenAI ops copilot for FIFA WC 2026</text>
+<text x="24" y="120" class="sf" font-size="14" font-style="italic" fill="#6E625B">crowd forecasts · accessible wayfinding</text>
+<g class="go"><text x="414" y="44" class="m" font-size="13" fill="#D04A31" text-anchor="end">open →</text></g></g>
 </svg>

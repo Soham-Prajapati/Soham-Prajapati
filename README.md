@@ -41,31 +41,31 @@ I study **Computer Engineering at SPIT Mumbai** with a **UI/UX minor at Pearl Ac
 
 <p align="center">
   <sub><b>languages</b></sub><br/>
-  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,java,dart" alt="ts, js, py, cpp, java, dart" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,java,dart&theme=light" alt="ts, js, py, cpp, java, dart" />
 </p>
 <p align="center">
   <sub><b>frontend, 3D, mobile &amp; design</b></sub><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,vite,html,css,flutter,tauri,figma" alt="react, nextjs, threejs, tailwind, vite, html, css, flutter, tauri, figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,vite,html,css,flutter,tauri,figma&theme=light" alt="react, nextjs, threejs, tailwind, vite, html, css, flutter, tauri, figma" />
 </p>
 <p align="center">
   <sub><b>backend &amp; data</b></sub><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,prisma,supabase,redis" alt="nodejs, express, fastapi, postgres, prisma, supabase, redis" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,prisma,supabase,redis&theme=light" alt="nodejs, express, fastapi, postgres, prisma, supabase, redis" />
 </p>
 <p align="center">
   <sub><b>ship it</b></sub><br/>
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,vercel,githubactions,git,linux,bash,npm" alt="docker, aws, gcp, vercel, githubactions, git, linux, bash, npm" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,vercel,githubactions,git,linux,bash,npm&theme=light" alt="docker, aws, gcp, vercel, githubactions, git, linux, bash, npm" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/MCP%20servers%20%26%20tools-15100C?style=for-the-badge&logo=modelcontextprotocol&logoColor=E8A04E" alt="MCP servers & tools" />
-  <img src="https://img.shields.io/badge/Claude-15100C?style=for-the-badge&logo=claude&logoColor=E8A04E" alt="Claude" />
-  <img src="https://img.shields.io/badge/Gemini-15100C?style=for-the-badge&logo=googlegemini&logoColor=E8A04E" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Ollama-15100C?style=for-the-badge&logo=ollama&logoColor=E8A04E" alt="Ollama" />
-  <img src="https://img.shields.io/badge/LangChain-15100C?style=for-the-badge&logo=langchain&logoColor=E8A04E" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Fastify-15100C?style=for-the-badge&logo=fastify&logoColor=E8A04E" alt="Fastify" />
-  <img src="https://img.shields.io/badge/GSAP-15100C?style=for-the-badge&logo=greensock&logoColor=E8A04E" alt="GSAP" />
-  <img src="https://img.shields.io/badge/Homebrew-15100C?style=for-the-badge&logo=homebrew&logoColor=E8A04E" alt="Homebrew" />
-  <img src="https://img.shields.io/badge/WebSockets-15100C?style=for-the-badge" alt="WebSockets" />
-  <img src="https://img.shields.io/badge/OAuth%202.0-15100C?style=for-the-badge" alt="OAuth 2.0" />
+  <img src="https://img.shields.io/badge/MCP%20servers%20%26%20tools-F8EBE1?style=for-the-badge&logo=modelcontextprotocol&logoColor=D04A31" alt="MCP servers & tools" />
+  <img src="https://img.shields.io/badge/Claude-F8EBE1?style=for-the-badge&logo=claude&logoColor=D04A31" alt="Claude" />
+  <img src="https://img.shields.io/badge/Gemini-F8EBE1?style=for-the-badge&logo=googlegemini&logoColor=D04A31" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Ollama-F8EBE1?style=for-the-badge&logo=ollama&logoColor=D04A31" alt="Ollama" />
+  <img src="https://img.shields.io/badge/LangChain-F8EBE1?style=for-the-badge&logo=langchain&logoColor=D04A31" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Fastify-F8EBE1?style=for-the-badge&logo=fastify&logoColor=D04A31" alt="Fastify" />
+  <img src="https://img.shields.io/badge/GSAP-F8EBE1?style=for-the-badge&logo=greensock&logoColor=D04A31" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Homebrew-F8EBE1?style=for-the-badge&logo=homebrew&logoColor=D04A31" alt="Homebrew" />
+  <img src="https://img.shields.io/badge/WebSockets-F8EBE1?style=for-the-badge" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/OAuth%202.0-F8EBE1?style=for-the-badge" alt="OAuth 2.0" />
 </p>
 
 <p align="center">

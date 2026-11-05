@@ -2,8 +2,8 @@
 <style>
   .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
   .sf{font-family:Georgia,'Times New Roman',serif}
-  .ink{fill:#2A2018}.mu{fill:#7A6652}.or{fill:#C8741F}.gr{fill:#2E8B57}
-  .chip{fill:#F6E2C2;stroke:#E6C48E}
+  .ink{fill:#26201C}.mu{fill:#6E625B}.or{fill:#D04A31}.gr{fill:#2F7A3D}
+  .chip{fill:#FBDCD2;stroke:#EBCDB9}
   .r{animation:in .35s ease-out both}
   .r1{animation-delay:.2s}.r2{animation-delay:.4s}.r3{animation-delay:.6s}.r4{animation-delay:.8s}.r5{animation-delay:1s}.r6{animation-delay:1.2s}.r7{animation-delay:1.6s}
   @keyframes in{from{opacity:0}to{opacity:1}}
@@ -14,8 +14,8 @@
   @keyframes stamp{from{opacity:0;transform:scale(1.6) rotate(-14deg)}to{opacity:.92;transform:scale(1) rotate(-7deg)}}
   @media (prefers-reduced-motion:reduce){.r,.star,.stamp{animation:none}}
 </style>
-<rect width="900" height="540" rx="16" fill="#FBF1E1"/>
-<rect width="900" height="8" rx="4" fill="#C8741F"/>
+<rect width="900" height="540" rx="16" fill="#F8EBE1"/>
+<rect width="900" height="8" rx="4" fill="#D04A31"/>
 <text x="40" y="56" class="sf ink" font-size="28">The Soup Review</text>
 <text x="40" y="80" class="m mu" font-size="12">an inspection, with receipts · every claim has a source</text>
 <g class="m" font-size="13">
@@ -29,10 +29,10 @@
   <path class="star st4" d="M192 128l3.5 7.2 7.9 1.1-5.7 5.6 1.3 7.9-7-3.7-7 3.7 1.3-7.9-5.7-5.6 7.9-1.1z"/>
   <path class="star st5" d="M216 128l3.5 7.2 7.9 1.1-5.7 5.6 1.3 7.9-7-3.7-7 3.7 1.3-7.9-5.7-5.6 7.9-1.1z"/>
 </g>
-<g class="stamp"><rect x="682" y="68" width="180" height="56" rx="8" fill="none" stroke="#C8741F" stroke-width="3"/>
+<g class="stamp"><rect x="682" y="68" width="180" height="56" rx="8" fill="none" stroke="#D04A31" stroke-width="3"/>
   <text x="772" y="94" text-anchor="middle" class="m or" font-size="15" font-weight="700">CHEF’S KISS</text>
   <text x="772" y="113" text-anchor="middle" class="m or" font-size="11">inspected · approved</text></g>
-<line x1="40" y1="166" x2="860" y2="166" stroke="#E6D6BC"/>
+<line x1="40" y1="166" x2="860" y2="166" stroke="#EBD3C4"/>
 <text x="40" y="194" class="m mu" font-size="12" letter-spacing="1.5">WHAT THE CRITICS FOUND</text>
 <g class="m" font-size="14">
   <g class="r r1"><text x="40" y="226" class="ink" font-weight="700">Production AI, not demos</text><text x="292" y="226" class="mu">220+ of 411 MCP tools in a live ERP</text>
@@ -48,7 +48,7 @@
   <g class="r r6"><text x="40" y="396" class="ink" font-weight="700">Automates the boring</text><text x="292" y="396" class="mu">a monthly filing: 4–5 days → under 2 hours</text>
     <rect x="732" y="381" width="128" height="22" rx="11" class="chip"/><text x="796" y="396" text-anchor="middle" class="or" font-size="12">Engaze ✓</text></g>
 </g>
-<line x1="40" y1="424" x2="860" y2="424" stroke="#E6D6BC"/>
+<line x1="40" y1="424" x2="860" y2="424" stroke="#EBD3C4"/>
 <g class="r r7 m" font-size="14">
   <text x="40" y="452" class="mu" font-size="12" letter-spacing="1.5">THE ONLY COMPLAINTS</text>
   <text x="40" y="482" class="ink">• portions too ambitious: orders a portfolio, gets an operating system</text>
