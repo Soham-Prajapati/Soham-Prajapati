@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="540" viewBox="0 0 900 540" role="img" aria-label="The Soup Review, five stars. Production AI not demos: 220+ of 411 MCP tools in a live ERP (Engaze). Guardrails by default: red-team auth tests, permission drift fails the build (Engaze). Ships to real users: Soupz on npm and Homebrew, 280+ downloads. Taste: Best UI/UX among 800+ teams (SPIT Hacks). Builds the stage too: HackFusion site, 3,000+ registrations (IEEE SPIT). Automates the boring: a monthly filing from 4–5 days to under 2 hours (Engaze). Only complaint: orders a website, gets an operating system.">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="540" viewBox="0 0 900 540" role="img" aria-label="The Soup Review, five stars. Production AI not demos: 220+ of 411 MCP tools in a live ERP (Engaze). Guardrails by default: red-team auth tests, permission drift fails the build (Engaze). Ships to real users: Soupz on npm and Homebrew, 280+ downloads. Taste: Best UI/UX among 800+ teams (SPIT Hacks). Builds the stage too: HackFusion site, 3,000+ registrations (IEEE SPIT). Automates the boring: a monthly reconciliation from 5 days to 2 hours (Engaze). Only complaint: orders a website, gets an operating system.">
 <style>
   .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
   .sf{font-family:Georgia,'Times New Roman',serif}
@@ -45,7 +45,7 @@
     <rect x="732" y="313" width="128" height="22" rx="11" class="chip"/><text x="796" y="328" text-anchor="middle" class="or" font-size="12">SPIT Hacks ✓</text></g>
   <g class="r r5"><text x="40" y="362" class="ink" font-weight="700">Builds the stage too</text><text x="292" y="362" class="mu">HackFusion site · 3,000+ registrations</text>
     <rect x="732" y="347" width="128" height="22" rx="11" class="chip"/><text x="796" y="362" text-anchor="middle" class="or" font-size="12">IEEE SPIT ✓</text></g>
-  <g class="r r6"><text x="40" y="396" class="ink" font-weight="700">Automates the boring</text><text x="292" y="396" class="mu">a monthly filing: 4–5 days → under 2 hours</text>
+  <g class="r r6"><text x="40" y="396" class="ink" font-weight="700">Automates the boring</text><text x="292" y="396" class="mu">a monthly reconciliation: 5 days → 2 hours</text>
     <rect x="732" y="381" width="128" height="22" rx="11" class="chip"/><text x="796" y="396" text-anchor="middle" class="or" font-size="12">Engaze ✓</text></g>
 </g>
 <line x1="40" y1="424" x2="860" y2="424" stroke="#EBD3C4"/>

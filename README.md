@@ -24,7 +24,7 @@ I study **Computer Engineering at SPIT Mumbai** with a **UI/UX minor at Pearl Ac
 <p align="center">
   <a href="https://soupz.vercel.app"><img src="./assets/dish-soupz.svg" width="49%" alt="Soupz: drive 5 coding agents from your phone" /></a>
   <img src="./assets/dish-mcp.svg" width="49%" alt="MCP at Engaze (under NDA): 220+ of 411 tools, each permission-checked" />
-  <a href="https://tripwise.prerakgada.in"><img src="./assets/dish-tripwise.svg" width="49%" alt="TripWise: agents negotiate a group's budgets into one trip" /></a>
+  <a href="https://tripwise.engaze.in"><img src="./assets/dish-tripwise.svg" width="49%" alt="TripWise: agents negotiate a group's budgets into one trip" /></a>
   <a href="https://hackfusion-2026.vercel.app"><img src="./assets/dish-hackfusion.svg" width="49%" alt="HackFusion 2026: a voxel village in React Three Fiber, 3,000+ registrations" /></a>
   <a href="https://prompt-wars-4-by-soup.vercel.app"><img src="./assets/dish-pitchops.svg" width="49%" alt="PitchOps: GenAI stadium-ops copilot for FIFA WC 2026" /></a>
   <a href="https://trail-sync-nine.vercel.app"><img src="./assets/dish-trailsync.svg" width="49%" alt="TrailSync: 3D trip routes on Mapbox terrain" /></a>
@@ -80,7 +80,7 @@ I study **Computer Engineering at SPIT Mumbai** with a **UI/UX minor at Pearl Ac
   <a href="https://www.behance.net/gallery/226110415/Spotify-Reimagined">Behance</a> ·
   <a href="mailto:9.sohamprajapati@gmail.com">9.sohamprajapati@gmail.com</a>
 </p>
-<!-- TODO: link "SN Works" to the studio site once it is live -->
+<!-- TODO: link "SN Works" to the SN Works site once it is live -->
 <p align="center"><sub>the other chef in this kitchen: my SN Works co-founder and hackathon teammate → <a href="https://github.com/NidhiiMaru"><b>@NidhiiMaru</b></a></sub></p>
 
 <p align="center"><sub><code>~ made with soup ~</code></sub></p>
